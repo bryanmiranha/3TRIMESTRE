@@ -5,6 +5,6 @@
     --branco: #FFFFFF;
 }
 
-.cabeçalho {
-    background-color: var(--branco);
+body {
+    background-color: var(--cor-de-fundo);
 }
